@@ -298,6 +298,7 @@ header .wrap nav ul li:hover a{color:#111;}
     color: #fff;
     text-align: center;
     padding-bottom: 20px;
+    word-break: keep-all;
 }
 #review .wrap .slick_group .slick_slide .img_part{
     width: 100px; height: 100px;
